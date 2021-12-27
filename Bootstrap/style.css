@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Noto+Sans&family=Satisfy&display=swap');
+.actors-album {
+    margin-top: 2cm;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
+.card {
+    padding: 20px;
+} 
+.card-title {
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+.actors-album-text {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+#row2 {
+    margin-top: 2cm;
+}
